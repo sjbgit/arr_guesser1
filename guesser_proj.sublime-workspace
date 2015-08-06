@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"currentObject"
+			],
+			[
+				"curr",
+				"curryPartial"
+			],
+			[
+				"ct",
+				"ng-controller	AngularJS"
+			],
+			[
+				"md",
+				"md-button	Angular Material - button directive with optional ink ripples (default enabled)."
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"get",
+				"getAllValues"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mem",
+				"memoryManager"
+			],
+			[
+				"filter",
+				"filteredParams"
+			],
+			[
+				"func",
+				"funcParamsArray"
+			],
+			[
+				"test",
+				"testArgs"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"cu",
+				"curriedAdd"
+			],
+			[
+				"fail",
+				"failOrCall"
+			],
+			[
+				"fa",
+				"failOrCall"
+			],
+			[
+				"sus",
+				"successHandler"
+			],
+			[
+				"some",
+				"somePrototypeMethod"
+			],
+			[
+				"my",
+				"myConstructor"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"suc",
+				"successHandler"
+			],
+			[
+				"count",
+				"countNodes"
+			],
+			[
+				"Test",
+				"TestBind"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"split",
+				"splitItems"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"map",
+				"mapOptions"
+			],
+			[
+				"runn",
+				"runningQuery"
+			],
+			[
+				"l",
+				"location-map-ctrl"
+			],
+			[
+				"lo",
+				"location-map"
+			],
+			[
+				"el",
+				"eliteApi"
+			],
+			[
+				"getLe",
+				"getLeagueId"
+			],
+			[
+				"getl",
+				"getLeagueId"
+			],
+			[
+				"lea",
+				"leagueId"
+			],
+			[
+				"stat",
+				"staticCache"
+			],
+			[
+				"getL",
+				"getLeagues"
+			],
+			[
+				"cach",
+				"cacheKey"
+			],
+			[
+				"leagueDa",
+				"leagueDataCache"
+			],
+			[
+				"league",
+				"leagueData"
+			],
+			[
+				"leagues",
+				"leaguesData"
+			],
+			[
+				"leagu",
+				"leaguesData"
+			],
+			[
+				"angu",
+				"angular-cache"
+			],
+			[
+				"defe",
+				"deferred"
+			],
+			[
+				"elite",
+				"eliteApp"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"st",
+				"stateParams"
+			],
+			[
+				"ab",
+				"abstract"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ion",
+				"ion-side-menus"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "guesser_server.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"filter",
+				"Filter Lines: Filter With String"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"bropw",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 584.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Material Theme",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sbunke/AppData/Roaming/Skype/My Skype Received Files/.editorconfig",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-test/slave/dist/slave.js",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-test/master/args.js",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-suite/package.json",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-suite/index.html",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-suite/app/index.js",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-suite/app/config.js",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-suite/app/app.js",
+		"/C/Users/sbunke/Downloads/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/sublimeprojects/pulse-suite.sublime-project",
+		"/C/Users/sbunke/Downloads/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/sbunke/Downloads/Sublime Text/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/projects/microsoft/pulse2/branches/2015_07_30/pulse-suite/main.js",
+		"/C/temp/velocity/index.html",
+		"/C/temp/velocity/cat_list.html",
+		"/C/temp/velocity/cat_list1.html",
+		"/C/temp/velocity/other_cat.html",
+		"/C/temp/velocity/css/main.css",
+		"/C/Udacity/HTML_CSS_1/css/main.css",
+		"/C/Udacity/HTML_CSS_1/css/test.html",
+		"/C/Udacity/HTML_CSS_1/index.html",
+		"/C/temp/node/codewars_kata/js_prototype/index.js",
+		"/C/temp/node/codewars_kata/js_prototype/main.js",
+		"/C/temp/node/codewars_kata/binary_tree/index.js",
+		"/C/temp/node/codewars_kata/deferred_objects/index.js",
+		"/C/temp/node/codewars_kata/understand_this/index.js",
+		"/C/temp/node/codewars_kata/understand_this/def.js",
+		"/C/temp/node/codewars_kata/understand_this/def1.js",
+		"/C/temp/node/codewars_kata/understand_this/def_test1.js",
+		"/C/temp/node/codewars_kata/dna_sequence/index.js",
+		"/C/temp/node/codewars_kata/curry_partial/index.js",
+		"/C/temp/node/codewars_kata/speaking_javascript/index.js",
+		"/C/temp/node/codewars_kata/serial_funcs/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/memory_management/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/powers_combinations/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/vector_class/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/math_issues/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/partition_on/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/power_set/c#.txt",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/pre_fill/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/move_zeros/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/randomize_objects/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/squares/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/squares/test.html",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/default_args/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/undo_redo/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/simple_events/index.js",
+		"/C/Users/sbunke/Documents/GitHub/es6_1_node/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/bbird/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/bbird/testp/index.js",
+		"/C/Users/sbunke/Documents/GitHub/node_sched1/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/jsbin/index.js",
+		"/C/Users/sbunke/Documents/GitHub/karm1/test/app-test.js",
+		"/C/Users/sbunke/Documents/GitHub/karm1/src/app.js",
+		"/C/Users/sbunke/Documents/GitHub/karm1/karma.conf.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/clos/index.js",
+		"/C/Users/sbunke/Documents/GitHub/node_sched1/client/index.js",
+		"/C/Users/sbunke/Documents/GitHub/node_sched1/sms/index.js",
+		"/C/temp/node/event_hub_read/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/bluebird/index.js",
+		"/C/Users/sbunke/Documents/GitHub/code_katas/the_baker/index.js",
+		"/C/temp/node/codewars_kata/memory_management/index.js",
+		"/C/temp/node/codewars_kata/string_as_function/index.js",
+		"/C/temp/node/codewars_kata/missing_number/index.js",
+		"/C/temp/node/codewars_kata/custom_sort/index.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/index.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/package.json",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/bower.json",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/teams/team-detail.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/teams/team-detail-ctrl.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/game/game.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/game/game-ctrl.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/standings/standings.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/locations/locations.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/rules/rules.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/teams/teams.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/home/myteams.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/home/leagues.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/locations/location-ctrl.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/teams/teams-ctrl.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/standings/standing-ctrl.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/home/leagues-ctrl.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/home/home.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/layout/menu-layout.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/services/eliteApi.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/js/app.js",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/templates/playlists.html",
+		"/C/Users/sbunke/Documents/GitHub/Ionic/ESApp/www/app/layout/menu-layout"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/sentiment",
+			"function getMainModel",
+			"simulating sentiment",
+			"simulating sentiement",
+			"post",
+			"simulating sentiment",
+			"scenario\n",
+			"== scenario\n",
+			"\",\n",
+			"== scenario",
+			"localhost",
+			"keys",
+			");\n",
+			"splitItems",
+			"623177",
+			">\n",
+			">",
+			"setLeagueId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "guesser_server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "guesser_proj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
